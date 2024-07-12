@@ -5,7 +5,7 @@ seoDescription: "Learn how Rollup.js optimizes JavaScript code, supports ES6 mod
 datePublished: Thu Jul 04 2024 16:40:38 GMT+0000 (Coordinated Universal Time)
 cuid: cly7hthxj000009l0ddz4gldw
 slug: the-importance-of-rollupjs-in-modern-web-development
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720111156709/d61f5bd6-59a7-48b7-ac1c-f1e8cb2a6ba7.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720796884583/b8921031-0146-4db3-a678-cadd8c55bfdf.png
 tags: productivity, programming-blogs, javascript, web-development, backend, webdev, software-engineering, frontend-development, backend-developments
 
 ---
