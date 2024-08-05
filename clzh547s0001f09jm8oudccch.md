@@ -5,6 +5,7 @@ seoDescription: "Learn how to set up CI/CD pipelines to speed up software delive
 datePublished: Mon Aug 05 2024 15:22:27 GMT+0000 (Coordinated Universal Time)
 cuid: clzh547s0001f09jm8oudccch
 slug: streamlining-development-a-comprehensive-guide-to-learning-cicd-pipelines
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722871413556/278817f8-7181-465e-8064-c74a26e6969e.jpeg
 tags: cpp, algorithms, java, javascript, python, web-development, backend, blockchain, frontend-development, cryptocurrency, ci-cd
 
 ---
