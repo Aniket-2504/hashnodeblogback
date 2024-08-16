@@ -5,7 +5,8 @@ seoDescription: "Starting with the basics in programming ensures a strong founda
 datePublished: Fri Aug 09 2024 18:12:01 GMT+0000 (Coordinated Universal Time)
 cuid: clzn0xoqk000c09lb2obo86ll
 slug: why-starting-with-the-basics-is-essential-for-mastery-in-programming
-tags: cpp, software-development, programming-blogs, java, javascript, web-development, backend, webdev, beginners, blockchain, frontend-development, programming-tips
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723793170321/b282f6bc-8395-4ba3-868d-31fd5a438cf9.png
+tags: cpp, blogging, software-development, programming-blogs, java, javascript, web-development, backend, webdev, beginners, blockchain, frontend-development, cryptocurrency, web3, programming-tips
 
 ---
 
